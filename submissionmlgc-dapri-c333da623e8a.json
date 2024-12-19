@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-dapri",
+  "private_key_id": "c333da623e8acd49788925ac4ba8568aa222308e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPF8qryxlGUJ2A\nlgc8Vu4SgsNWyLSaAvsf6WKT2Ge2S+r02v5WKbpY8HbKaOZl4TTNXW/XezJxEvlY\n0PePuk1ws0skuqrR3jpDcKthIlMAA7p3jvciENmBxKiMPAhzSpDrxfLlSvT4MZHu\nLm1dKxZgmamNMgMA09J621TW/d2OxomoClG8dDl+f04CAs9M63jfoA+KLbf57AM2\n1qUCBTdthCiUqXMYpP2TKFUFPM+PQ3gtFh6v/kbYWprwgAJL1z67gDfWJp5tZfpA\nhdNL9UV9egTzQB8EEKBnXUL1hyPt+dKFK+qktDkZJVE3vZ+ksY0tr6x2WQRtDoHI\nrGL3Uk2fAgMBAAECggEAV0dzKsEPl2NdZfaU+Ri4AIQs2HQBLZGJDfN6EM5ZM2q+\njNCI9X5jo51Aq2DXjWODMfQpsTqiUSaKgSSc2W3OumtOBZ5IZOfQTWD8UZU6PtzT\nZxURUcGhMcBUurmIZDKubjfAfWOAZ+PYWXYmsGf6596LJ09HFb+wSwgKMwvOJyAC\nICq9P13nWhrDvptrrsz+1PsbG+pvZvBXZOQIoBdXpn7hgZWax6WRYLa4kfiC8CDc\ncTPybZgPiV2gmyhrG3yS1sRumzizhXXDUkkEv8TWUTYVoFQa2oO/PMiQm1yMgO5M\n6rVnrPygEXfczjN/hJ70dLMrlxogp+wD/jB2HUZ7NQKBgQD1y5+Lym4e5nyazjsb\nWnHOtf7v9dtbNgJEMQrwa2ASSKezbWSGOINIEZ+8t9FLqbM81oKrLcwkiXoCSS+J\np2mJcNndtVzy+e1Ud1CaF8EFAuxWvYIIsVXI6lEEH3e9eunphMo1i21fhEs3ZqLN\n+P0IKBi9XwqJ0OqJ0GxaJOROVQKBgQDXsNQkiKwa3MzUEJmc23p/ZLidDRuuFoxu\nxPVw9Ij7B47/DgVYRFzG282RfQIbDOfDPJVkSOORjI/qGjE4WjWj33sDimBFXwW6\n0gFTBMM6A3WDs2vDTLazd1vbqgUAkN8TckdtfwE5gAReASGWbh3KT8E5K+T7lJEK\ndownVhU4IwKBgA/eSHuW4wsdqDe6TriSWzyUJVRKlBHMZ9MNM36YAAjOJf2Ad3fu\n2BLkCGL/nwR6fTbVRnRUrZRCR90z6lzBsR+NaJNWrRyGpBrK5So9lFmFecqTy3xS\nLo6dCgPxICLcd5N63i8cxD/hY5W9C4+unm9TX12CcES7dxjUmtoq/Y5NAoGAZrnc\nP84sEdspXrLNRoytifEBkCMHFOG+Xp9Fuldsygoui8E0wHZGrZtQC8O69gEufKjl\nCc9BOzfz7u4slQc51uOAJg6IjWGVTAXrBYwWIxI0rNYONATcWxs0z6jpGvzkkdFy\nvW6ouacD7XWido/ZdlqHz1/dfgijD5WoaK+yCXsCgYEA0PIlboJE+u0MNCSa6c62\nhNPWgU1SWn4B7TQhzClbyYKpQ5aFZL3HBfZu6zEZRcgCS74qFvNDwQE49F5jWbI6\ntD/A+J5ysfYcEv/hJyzB1rJrBwBsDxTqDiRj1hgUll0QNGX8mhk0mXgw5dexU/pO\n/0HYRWHLAPP598epWdi0d9s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dapri-firestore@submissionmlgc-dapri.iam.gserviceaccount.com",
+  "client_id": "110171530112483681394",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dapri-firestore%40submissionmlgc-dapri.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
